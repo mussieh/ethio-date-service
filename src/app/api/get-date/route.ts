@@ -1,4 +1,4 @@
-import ethiopianDate from "ethiopian-date";
+const ethiopianDate = require("ethiopian-date");
 
 interface DateRequest {
     year: number;
